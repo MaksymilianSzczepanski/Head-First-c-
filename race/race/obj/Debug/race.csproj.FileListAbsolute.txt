@@ -1,0 +1,10 @@
+C:\programowanie\wyscig\race\race\bin\Debug\race.exe.config
+C:\programowanie\wyscig\race\race\bin\Debug\race.exe
+C:\programowanie\wyscig\race\race\bin\Debug\race.pdb
+C:\programowanie\wyscig\race\race\obj\Debug\race.csprojAssemblyReference.cache
+C:\programowanie\wyscig\race\race\obj\Debug\race.Form1.resources
+C:\programowanie\wyscig\race\race\obj\Debug\race.Properties.Resources.resources
+C:\programowanie\wyscig\race\race\obj\Debug\race.csproj.GenerateResource.cache
+C:\programowanie\wyscig\race\race\obj\Debug\race.csproj.CoreCompileInputs.cache
+C:\programowanie\wyscig\race\race\obj\Debug\race.exe
+C:\programowanie\wyscig\race\race\obj\Debug\race.pdb
